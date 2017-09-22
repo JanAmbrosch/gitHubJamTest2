@@ -6,6 +6,6 @@
 REPORT ZAEB_JAM_GIT_2_TEST_2.
 
 
-*yeah
+*yeah  JAM
 
 write 'yeah'.
